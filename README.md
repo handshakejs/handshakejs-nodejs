@@ -2,7 +2,7 @@
 
 Makes it easier to interact with handshakejs from nodejs.
 
-[![BuildStatus](https://travis-ci.org/scottmotte/handshakejs-nodejs.png?branch=master)](https://travis-ci.org/scottmotte/handshakejs)
+[![BuildStatus](https://travis-ci.org/scottmotte/handshakejs-nodejs.png?branch=master)](https://travis-ci.org/scottmotte/handshakejs-nodejs)
 [![NPM version](https://badge.fury.io/js/handshakejs.png)](http://badge.fury.io/js/handshakejs)
 
 ```javsacript

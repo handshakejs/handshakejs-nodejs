@@ -31,7 +31,6 @@ describe('handshakejs', function() {
     var email = "scott@mailinator.com";
     var hash = "852874208fc66f6c404b6150e2bf3fba";
     handshakejs.validate({email: email, hash: hash}, function(err, resp) {
-      console.log(err);
       should.not.exist(err);
 
       done();

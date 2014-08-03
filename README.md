@@ -4,7 +4,7 @@ Makes it easier to interact with handshakejs from nodejs.
 
 IMPORTANT: Requires Node.js `0.10.x` or greater.
 
-[![BuildStatus](https://travis-ci.org/scottmotte/handshakejs-nodejs.png?branch=master)](https://travis-ci.org/scottmotte/handshakejs-nodejs)
+[![BuildStatus](https://travis-ci.org/handshakejs/handshakejs-nodejs.png?branch=master)](https://travis-ci.org/scottmotte/handshakejs-nodejs)
 [![NPM version](https://badge.fury.io/js/handshakejs.png)](http://badge.fury.io/js/handshakejs)
 
 ```javsacript
